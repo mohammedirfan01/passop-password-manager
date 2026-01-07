@@ -1,16 +1,58 @@
-# React + Vite
+ 🔐 PassOp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PassOp is a simple password manager web application that allows users to securely store and manage website credentials such as website name, username/email, and passwords.
 
-Currently, two official plugins are available:
+This project is built to demonstrate frontend fundamentals like form handling, state management, and CRUD operations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+ 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Add website credentials (site name, username, password)
+- View saved passwords
+- Edit existing credentials
+- Delete saved entries
+- Clean and simple UI
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ 🧠 What This Project Demonstrates
+
+- React component structure
+- State management
+- Form validation & handling
+- CRUD functionality
+- Basic understanding of password management concepts
+
+---
+
+ 🧱 Tech Stack
+
+- React
+- JavaScript
+- CSS / Tailwind (if used)
+- Local storage (if used)
+
+---
+
+ ▶️ Getting Started
+
+1. Clone the repository
+    bash
+      git clone https://github.com/mohammedirfan01/PassOp.git
+      cd PassOp
+2. Install dependencies
+    bash
+      Copy code
+      npm install
+3. Run the app
+      bash
+      Copy code
+      npm start
+## Future Improvements
+  - Encrypt stored passwords
+  - Authentication
+  - Cloud sync
+  - Password strength checker
+  - Copy-to-clipboard feature
+
