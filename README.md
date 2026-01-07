@@ -41,12 +41,12 @@ This project is built to demonstrate frontend fundamentals like form handling, s
 ```bash
 git clone https://github.com/mohammedirfan01/PassOp.git
 cd PassOp
-2. Install dependencies
-bash
+### 2. Install dependencies
+```bash
 Copy code
 npm install
-3. Run the app
-bash
+### 3. Run the app
+```bash
 Copy code
 npm start
 ## Future Improvements
