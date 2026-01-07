@@ -35,20 +35,20 @@ This project is built to demonstrate frontend fundamentals like form handling, s
 
 ---
 
- ▶️ Getting Started
+## ▶️ Getting Started
 
-1. Clone the repository
-    bash
-      git clone https://github.com/mohammedirfan01/PassOp.git
-      cd PassOp
+### 1. Clone the repository
+```bash
+git clone https://github.com/mohammedirfan01/PassOp.git
+cd PassOp
 2. Install dependencies
-    bash
-      Copy code
-      npm install
+bash
+Copy code
+npm install
 3. Run the app
-      bash
-      Copy code
-      npm start
+bash
+Copy code
+npm start
 ## Future Improvements
   - Encrypt stored passwords
   - Authentication
