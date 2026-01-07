@@ -44,12 +44,10 @@ cd PassOp
 ```
 ### 2. Install dependencies
 ```bash
-Copy code
 npm install
 ```
 ### 3. Run the app
 ```bash
-Copy code
 npm start
 ```
 ## Future Improvements
